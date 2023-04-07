@@ -1,5 +1,5 @@
 package electricity;
-//Author Rajiv
+//  Author Rajiv
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
